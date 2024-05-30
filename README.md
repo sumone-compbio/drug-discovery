@@ -4,4 +4,4 @@ Below are the regression plots of train and test data comparing the R2 score of 
 
 ![Screenshot from 2024-05-30 16-19-54](https://github.com/sumone-compbio/drug-discovery/assets/43076959/61fae071-1bc8-4d7c-944e-34b57999eabb)
 
-The model seems to be overfitting. In the next tutorial, I will upload how to train a graph convolutional network (GCN) for the same task. GCNs are known to capture better expressivity as a graph is a better representation of a molecule compared to sequences, images, or data in tabular format.
+The model seems to be overfitting. In the next tutorial, I will upload how to train a graph convolutional network (GCN) for the same task. GCNs are known to capture better expressivity as a graph is a better representation of a molecule compared to sequences, images, or data in tabular format. Later on, I will find novel compounds that might BE potential inhibitors for this target. I will also calculate its drug-likeness properties to filter out the best potential inhibitors.
